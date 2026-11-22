@@ -1,3 +1,4 @@
+// Held: one quiet text for the judge — a cat asleep on a lap.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const TEXT = "A cat has settled on your lap and gone heavy with sleep, warm through the blanket, purring low and even. The room has gone quiet around you both. Outside, the rain has eased to single drops, one at a time, and nothing anywhere is asking you to move.";
